@@ -9,19 +9,19 @@
 <h4 align="center">
   <b><a href="https://ossinsight.io/explore/">HTML</a></b>
   •
-  <b><a href="https://ossinsight.io/collections/open-source-database">Repo Rankings</a></b>
+  <b><a href="https://ossinsight.io/collections/open-source-database">CSS</a></b>
   •
-  <b><a href="https://ossinsight.io/analyze/Ovilia">Developer Analytics</a></b>
+  <b><a href="https://ossinsight.io/analyze/Ovilia">JavaScript</a></b>
   •
-  <a href="https://ossinsight.io/analyze/pingcap/tidb">Repo Analytics</a>
+  <a href="https://ossinsight.io/analyze/pingcap/tidb">Bootstab</a>
   •
-  <a href="https://ossinsight.io/collections/open-source-database">Collections</a>
+  <a href="https://ossinsight.io/collections/open-source-database">DOM</a>
   •
-  <a href="https://ossinsight.io/docs/workshop">Workshop</a>
+  <a href="https://ossinsight.io/docs/workshop">React</a>
   •
-  <a href="https://ossinsight.io/blog">Blog</a>
+  <a href="https://ossinsight.io/blog">Mysql</a>
   •
-  <a href="https://ossinsight.io/docs">API</a>
+  <a href="https://ossinsight.io/docs">PHP</a>
   •
   <a href="https://twitter.com/OSSInsight">Twitter</a>
 </h3>
