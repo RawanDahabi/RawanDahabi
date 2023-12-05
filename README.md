@@ -1,5 +1,5 @@
-<h1 align="center">I'm RAWAN!</h1>
 
+<h1>Hi I'm RAWAN DAHABI</h1>
 <div align="center">
 <a href="https://ossinsight.io">
   <img src="/web/static/img/screenshots/homepage.gif" height=360
@@ -7,7 +7,7 @@
 </div>
 
 <h4 align="center">
-  <b><a href="https://ossinsight.io/explore/">Data Explorer</a></b>
+  <b><a href="https://ossinsight.io/explore/">HTML</a></b>
   •
   <b><a href="https://ossinsight.io/collections/open-source-database">Repo Rankings</a></b>
   •
