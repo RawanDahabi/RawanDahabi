@@ -23,7 +23,7 @@
   •
   <a href="https://ossinsight.io/docs">PHP</a>
   •
-  <a href="https://twitter.com/OSSInsight">Twitter</a>
+  <a href="https://twitter.com/OSSInsight">MobileApps</a>
 </h3>
 
 ## Introduction
